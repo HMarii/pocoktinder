@@ -12,6 +12,10 @@ function TinderCards() {
             name: "Gyurcsány Ferenc (defektes)",
             url: "https://pannonhirnok.com/wp-content/uploads/2019/04/ex-minisztereln%C3%B6k-715x400.png"
         },
+        {
+            name: "Hari Mari",
+            url: "https://i.ibb.co/1zbfcj7/mari-In-Car.jpg"
+        }
         
     ]);
 
